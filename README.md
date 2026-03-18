@@ -1,5 +1,13 @@
 # Hi there 👋, I'm Dipti Dhande
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+SRE+Enthusiast;Cloud+%26+AI+Learner;Docker+%7C+Kubernetes+%7C+AWS;Building+Scalable+Systems+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diptidhande&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 🚀 **DevOps Engineer | SRE Enthusiast | Cloud & AI Learner**
 📍 Nagpur, India
 
@@ -19,31 +27,35 @@
 
 ### 🚀 DevOps & Cloud
 
-* Docker | Kubernetes | Jenkins | Git
-* AWS | Azure | GCP
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ### 🖥️ Operating Systems
 
-* Linux (Ubuntu, CentOS)
-* Windows Server (Basics)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ### 📊 Monitoring & Logging
 
-* Prometheus | Grafana
-* Log Analysis | Alert Management
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 
 ### 🌐 Networking & Security
 
-* TCP/IP | DNS | VPN
-* Firewall Basics | System Hardening
+TCP/IP • DNS • VPN • Firewall • System Hardening
 
 ### 💾 Databases
 
-* MySQL | MongoDB | PostgreSQL | Redis
+MySQL • MongoDB • PostgreSQL • Redis
 
 ### 💻 Programming & Scripting
 
-* Python | Bash | SQL | C (Basic)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
@@ -57,6 +69,8 @@
 * Built containerized environments using Docker & Kubernetes
 * Developed monitoring dashboards using Prometheus & Grafana
 * Worked on CI/CD pipelines using Jenkins
+
+---
 
 ### 🔹 AI/ML Intern – Mthree
 
@@ -107,7 +121,7 @@
 
 * ☁️ AWS Associate Certification – Infosys Springboard
 * 🐍 Programming in Python – Cisco
-* 📊 Data Analytics – IBM
+* 📊 Introduction to Data Analytics – IBM
 * 🗄️ Advanced SQL
 
 ---
@@ -121,24 +135,23 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diptidhande\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=diptidhande\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptidhande&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=diptidhande&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/dipti-dhande-a0166425a
-* 💻 GitHub: https://github.com/diptidhande
-* 📧 Email: [diptidhande46667@gmail.com](mailto:diptidhande46667@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/dipti-dhande-a0166425a">
+    <img src="https://img.shields.io/badge/LinkedIn-Dipti%20Dhande-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
 ## ✨ Fun Fact
 
-I enjoy building systems that **run smoothly behind the scenes — like magic, but engineered ⚡**
+⚡ I enjoy building systems that run smoothly behind the scenes — like magic, but engineered
